@@ -1,0 +1,19 @@
+.sub-nav{
+    margin: 0 auto !important;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+}
+
+.magellan-nav {
+    right: 0;
+}
+
+.sub-nav dd {
+    display: inline-block;
+    float: none;
+}
+
+dl.sub-nav {
+    text-align: center;
+}
