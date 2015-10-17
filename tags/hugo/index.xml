@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on kongSugar</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/hugo/</link>
+    <description>Recent content in Hugo on kongSugar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Oct 2015 00:12:25 +0200</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/Shortcodes/</link>
+      <pubDate>Sun, 18 Oct 2015 00:12:25 +0200</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/Shortcodes/</guid>
+      <description>
+
+&lt;p&gt;Shortcodes sind in Hugo eine ganz feine Sache um eigenen Code in den Markdown-Texten aufzurufen.&lt;/p&gt;
+
+&lt;h3 id=&#34;gists-einfügen:9d2b6ab018130777335baa5357e4d991&#34;&gt;Gists einfügen&lt;/h3&gt;
+
+&lt;p&gt;Shortcodes werden unter /layout/shortcodes gespeichert.
+Folgender Code erleichtert zum Beispiel das Einfügen eines Gist mit Hilfe der Gist-ID.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div class=&#34;gistLoad&#34; data-id=&#34;0685f9fad133651a8cc6&#34; id=&#34;gist-0685f9fad133651a8cc6&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;{&lt;b&gt;&lt;/b&gt;{% gists 0685f9fad133651a8cc6 %}}&lt;/p&gt;
+
+&lt;h3 id=&#34;youtube:9d2b6ab018130777335baa5357e4d991&#34;&gt;YouTube&lt;/h3&gt;
+
+&lt;p&gt;
+&lt;div class=&#34;gistLoad&#34; data-id=&#34;30e34fbb444b4089bcda&#34; id=&#34;gist-30e34fbb444b4089bcda&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;{&lt;b&gt;&lt;/b&gt;{%youtube videoID%}}&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

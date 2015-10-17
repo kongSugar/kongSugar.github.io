@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2015-10-18T00:12:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/Shortcodes/</loc>
+    <lastmod>2015-10-18T00:12:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/project/sample/</loc>
+    <lastmod>2015-10-14T20:08:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/first/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

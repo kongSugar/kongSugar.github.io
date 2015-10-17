@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on kongSugar</title>
+    <link>http://replace-this-with-your-hugo-site.com/project/</link>
+    <description>Recent content in Projects on kongSugar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Oct 2015 20:08:26 +0200</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sample Project</title>
+      <link>http://replace-this-with-your-hugo-site.com/project/sample/</link>
+      <pubDate>Wed, 14 Oct 2015 20:08:26 +0200</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/project/sample/</guid>
+      <description>&lt;p&gt;&lt;div name=&#34;magellan-node&#34; data-name=&#34;Start&#34; id=&#34;Start9286590012357&#34; data-magellan-destination=&#34;Start&#34;&gt;&lt;h1&gt;Start&lt;/h1&gt;&lt;h3 id=&#34;lorem:7cce010dc015a937e6841b4e289c7b7d&#34;&gt;Lorem&lt;/h3&gt;
+
+&lt;p&gt;ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At &lt;strong&gt;vero&lt;/strong&gt; eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Tables&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Are&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Cool&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;col 3 is&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;right-aligned&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$1600&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;col 2 is&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;centered&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;zebra stripes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;are neat&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;*&lt;/th&gt;
+&lt;th&gt;1&lt;/th&gt;
+&lt;th&gt;2&lt;/th&gt;
+&lt;th&gt;3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div name=&#34;magellan-node&#34; data-name=&#34;QuickSort&#34; id=&#34;QuickSort9286590012357&#34; data-magellan-destination=&#34;QuickSort&#34;&gt;&lt;h1&gt;QuickSort&lt;/h1&gt;&lt;div class=&#34;gistLoad&#34; data-id=&#34;9b22d8aa0f7f97a266a0&#34; id=&#34;gist-9b22d8aa0f7f97a266a0&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div name=&#34;magellan-node&#34; data-name=&#34;YouTube&#34; id=&#34;YouTube9286590012357&#34; data-magellan-destination=&#34;YouTube&#34;&gt;&lt;h1&gt;YouTube&lt;/h1&gt;&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/tK5mQWdJkyQ&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
