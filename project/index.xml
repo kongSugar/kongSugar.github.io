@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on kongSugar</title>
-    <link>http://replace-this-with-your-hugo-site.com/project/</link>
+    <link>kongsugar.github.io/project/</link>
     <description>Recent content in Projects on kongSugar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-DE</language>
     <lastBuildDate>Wed, 14 Oct 2015 20:08:26 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="kongsugar.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sample Project</title>
-      <link>http://replace-this-with-your-hugo-site.com/project/sample/</link>
+      <link>/kongsugar.github.io/project/sample/</link>
       <pubDate>Wed, 14 Oct 2015 20:08:26 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/project/sample/</guid>
+      <guid>/kongsugar.github.io/project/sample/</guid>
       <description>&lt;p&gt;&lt;div name=&#34;magellan-node&#34; data-name=&#34;Start&#34; id=&#34;Start9286590012357&#34; data-magellan-destination=&#34;Start&#34;&gt;&lt;h1&gt;Start&lt;/h1&gt;&lt;h3 id=&#34;lorem:7cce010dc015a937e6841b4e289c7b7d&#34;&gt;Lorem&lt;/h3&gt;
 
 &lt;p&gt;ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At &lt;strong&gt;vero&lt;/strong&gt; eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
