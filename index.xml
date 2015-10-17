@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kongSugar</title>
-    <link>kongsugar.github.io/</link>
+    <link>/</link>
     <description>Recent content on kongSugar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sun, 18 Oct 2015 00:12:25 +0200</lastBuildDate>
-    <atom:link href="kongsugar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Shortcodes</title>
-      <link>/kongsugar.github.io/post/Shortcodes/</link>
+      <link>/post/Shortcodes/</link>
       <pubDate>Sun, 18 Oct 2015 00:12:25 +0200</pubDate>
       
-      <guid>/kongsugar.github.io/post/Shortcodes/</guid>
+      <guid>/post/Shortcodes/</guid>
       <description>
 
 &lt;p&gt;Shortcodes sind in Hugo eine ganz feine Sache um eigenen Code in den Markdown-Texten aufzurufen.&lt;/p&gt;
@@ -40,10 +40,10 @@ Folgender Code erleichtert zum Beispiel das Einfügen eines Gist mit Hilfe der G
     
     <item>
       <title>Sample Project</title>
-      <link>/kongsugar.github.io/project/sample/</link>
+      <link>/project/sample/</link>
       <pubDate>Wed, 14 Oct 2015 20:08:26 +0200</pubDate>
       
-      <guid>/kongsugar.github.io/project/sample/</guid>
+      <guid>/project/sample/</guid>
       <description>&lt;p&gt;&lt;div name=&#34;magellan-node&#34; data-name=&#34;Start&#34; id=&#34;Start9286590012357&#34; data-magellan-destination=&#34;Start&#34;&gt;&lt;h1&gt;Start&lt;/h1&gt;&lt;h3 id=&#34;lorem:7cce010dc015a937e6841b4e289c7b7d&#34;&gt;Lorem&lt;/h3&gt;
 
 &lt;p&gt;ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At &lt;strong&gt;vero&lt;/strong&gt; eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
@@ -126,10 +126,10 @@ Folgender Code erleichtert zum Beispiel das Einfügen eines Gist mit Hilfe der G
     
     <item>
       <title>Hallo</title>
-      <link>/kongsugar.github.io/post/first/</link>
+      <link>/post/first/</link>
       <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>/kongsugar.github.io/post/first/</guid>
+      <guid>/post/first/</guid>
       <description>
 
 &lt;h2 id=&#34;moin-mojn:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Moin Mojn&lt;/h2&gt;

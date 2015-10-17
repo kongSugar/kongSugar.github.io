@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on kongSugar</title>
-    <link>kongsugar.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on kongSugar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sun, 18 Oct 2015 00:12:25 +0200</lastBuildDate>
-    <atom:link href="kongsugar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Shortcodes</title>
-      <link>/kongsugar.github.io/post/Shortcodes/</link>
+      <link>/post/Shortcodes/</link>
       <pubDate>Sun, 18 Oct 2015 00:12:25 +0200</pubDate>
       
-      <guid>/kongsugar.github.io/post/Shortcodes/</guid>
+      <guid>/post/Shortcodes/</guid>
       <description>
 
 &lt;p&gt;Shortcodes sind in Hugo eine ganz feine Sache um eigenen Code in den Markdown-Texten aufzurufen.&lt;/p&gt;
@@ -40,10 +40,10 @@ Folgender Code erleichtert zum Beispiel das Einfügen eines Gist mit Hilfe der G
     
     <item>
       <title>Hallo</title>
-      <link>/kongsugar.github.io/post/first/</link>
+      <link>/post/first/</link>
       <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>/kongsugar.github.io/post/first/</guid>
+      <guid>/post/first/</guid>
       <description>
 
 &lt;h2 id=&#34;moin-mojn:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Moin Mojn&lt;/h2&gt;
