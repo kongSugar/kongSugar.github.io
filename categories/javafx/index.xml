@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javafx on kongSugar</title>
+    <link>/categories/javafx/</link>
+    <description>Recent content in Javafx on kongSugar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 18 Oct 2015 00:12:25 +0200</lastBuildDate>
+    <atom:link href="/categories/javafx/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JavaFX in 8u60</title>
+      <link>/post/javaFX/</link>
+      <pubDate>Sun, 18 Oct 2015 00:12:25 +0200</pubDate>
+      
+      <guid>/post/javaFX/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

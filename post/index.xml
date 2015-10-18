@@ -6,8 +6,28 @@
     <description>Recent content in Posts on kongSugar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 18 Oct 2015 00:12:25 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2015 00:12:25 +0200</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Review: Logitech MX Anywhere 2</title>
+      <link>/post/MX%20Anywhere%202/</link>
+      <pubDate>Mon, 19 Oct 2015 00:12:25 +0200</pubDate>
+      
+      <guid>/post/MX%20Anywhere%202/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JavaFX in 8u60</title>
+      <link>/post/javaFX/</link>
+      <pubDate>Sun, 18 Oct 2015 00:12:25 +0200</pubDate>
+      
+      <guid>/post/javaFX/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Shortcodes</title>
@@ -25,61 +45,24 @@
 Folgender Code erleichtert zum Beispiel das Einfügen eines Gist mit Hilfe der Gist-ID.&lt;/p&gt;
 
 &lt;p&gt;
-&lt;div class=&#34;gistLoad&#34; data-id=&#34;0685f9fad133651a8cc6&#34; id=&#34;gist-0685f9fad133651a8cc6&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;{&lt;b&gt;&lt;/b&gt;{% gists 0685f9fad133651a8cc6 %}}&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;gistLoad large-11 large-centered columns&#34; 
+         data-id=&#34;0685f9fad133651a8cc6&#34; 
+         id=&#34;gist-0685f9fad133651a8cc6&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 
 &lt;h3 id=&#34;youtube:9d2b6ab018130777335baa5357e4d991&#34;&gt;YouTube&lt;/h3&gt;
 
 &lt;p&gt;
-&lt;div class=&#34;gistLoad&#34; data-id=&#34;30e34fbb444b4089bcda&#34; id=&#34;gist-30e34fbb444b4089bcda&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;{&lt;b&gt;&lt;/b&gt;{%youtube videoID%}}&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hallo</title>
-      <link>/post/first/</link>
-      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/post/first/</guid>
-      <description>
-
-&lt;h2 id=&#34;moin-mojn:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Moin Mojn&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Tables&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Are&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Cool&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;col 3 is&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;right-aligned&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;$1600&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;col 2 is&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;centered&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;$12&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;zebra stripes&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;are neat&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;$1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet,
- consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At &lt;strong&gt;vero&lt;/strong&gt; eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;gistLoad large-11 large-centered columns&#34; 
+         data-id=&#34;30e34fbb444b4089bcda&#34; 
+         id=&#34;gist-30e34fbb444b4089bcda&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     

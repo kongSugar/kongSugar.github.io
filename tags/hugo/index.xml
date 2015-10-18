@@ -25,16 +25,24 @@
 Folgender Code erleichtert zum Beispiel das Einfügen eines Gist mit Hilfe der Gist-ID.&lt;/p&gt;
 
 &lt;p&gt;
-&lt;div class=&#34;gistLoad&#34; data-id=&#34;0685f9fad133651a8cc6&#34; id=&#34;gist-0685f9fad133651a8cc6&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;{&lt;b&gt;&lt;/b&gt;{% gists 0685f9fad133651a8cc6 %}}&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;gistLoad large-11 large-centered columns&#34; 
+         data-id=&#34;0685f9fad133651a8cc6&#34; 
+         id=&#34;gist-0685f9fad133651a8cc6&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 
 &lt;h3 id=&#34;youtube:9d2b6ab018130777335baa5357e4d991&#34;&gt;YouTube&lt;/h3&gt;
 
 &lt;p&gt;
-&lt;div class=&#34;gistLoad&#34; data-id=&#34;30e34fbb444b4089bcda&#34; id=&#34;gist-30e34fbb444b4089bcda&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;{&lt;b&gt;&lt;/b&gt;{%youtube videoID%}}&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;gistLoad large-11 large-centered columns&#34; 
+         data-id=&#34;30e34fbb444b4089bcda&#34; 
+         id=&#34;gist-30e34fbb444b4089bcda&#34;&gt;Loading gist &lt;i class=&#34;fa fa-spinner fa-spin&#34;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     
